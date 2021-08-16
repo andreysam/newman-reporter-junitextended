@@ -2,5 +2,23 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "xmlbuilder": "^15.1.1"
-  }
+  },
+  "name": "newman-reporter-junitextended",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreysam/newman-reporter-junitextended.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreysam/newman-reporter-junitextended/issues"
+  },
+  "homepage": "https://github.com/andreysam/newman-reporter-junitextended#readme",
+  "description": ""
 }
